@@ -58,7 +58,9 @@ My initial theory was that the alphanumeric data was in base 64 (based on the ex
 
 * We did a little googling, and decided to try to use PIL (Python Image Library) to output some sort of image based on the data.
 
-* After too much time being spent trying to get PIL to work, we eventually got it to output a BMP of the data. It was indeed a QR code, and our phone QR code apps were able to read it and decode it.
+* After too much time being spent trying to get PIL to work, we eventually got it to output a BMP of the data. It was indeed a QR code, and our phone QR code apps were able to read it and decode it. The QR Code image can be seen below.
+
+![QR Code](/solution.bmp?raw=true "QR Code")
 
 * In the QR code was the final solution, seen below.
 
