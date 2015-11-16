@@ -68,4 +68,4 @@ My initial theory was that the alphanumeric data was in base 64 (based on the ex
 
 ### The End ###
 
-Thanks to JDeuce and Crust for helping out!
+Thanks to JDeuce, Crust, and Dave B for helping out!
